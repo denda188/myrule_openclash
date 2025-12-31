@@ -1,0 +1,1 @@
+private openclash rule
